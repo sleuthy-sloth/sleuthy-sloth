@@ -2,7 +2,7 @@
 
 **USAF TSgt → Software Developer** | Transitioning via SkillBridge (retires June 2028)
 
-Building open-source tools that solve real problems — from Air Force maintenance operations to brain training games. Novice coder, expert AI user. Let the AI do the heavy lifting.
+Building open-source tools that solve real problems, from Air Force maintenance operations to brain training games.
 
 ---
 
@@ -18,13 +18,12 @@ Full-stack maintenance management platform for the 92nd Aircraft Maintenance Squ
 - 🌐 **[Live Demo](https://sleuthy-sloth.github.io/92-AMXS-Tracker)**
 
 ### [NeuralPulse](https://github.com/sleuthy-sloth/NeuralPulse)
-Open-source brain training web app — think Elevate or Lumosity, but free, open, and playable in your browser.
+Open-source brain training web app. Think Elevate or Lumosity, but free and playable in your browser.
 
-- 🧠 8+ brain games — memory, math, reflexes, vocabulary, and focus challenges
+- 🧠 13 brain games: memory, math, reflexes, vocabulary, focus, and logic
 - 📊 Stats dashboard with radar charts, sparklines, calendar heatmap
-- 🔥 Daily Challenge — 3-game sequence, same for everyone (Wordle-style)
+- 🔥 Daily Challenge: 3-game sequence, same for everyone (Wordle-style)
 - 📱 Mobile-first PWA, works offline, optional cloud sync
-- 🌐 **[Live Demo](https://sleuthy-sloth.github.io/NeuralPulse)**
 
 ---
 
@@ -44,7 +43,7 @@ Open-source brain training web app — think Elevate or Lumosity, but free, open
 
 ## 📌 Around the Web
 
-- 🌍 [Codeberg](https://codeberg.org/sleuthy-sloth) — mirror
+- 🌍 [Codeberg](https://codeberg.org/sleuthy-sloth) - mirror
 - 🏢 **Sleuthy Sloth Studios**
 
 ---
