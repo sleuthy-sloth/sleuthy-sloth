@@ -17,6 +17,16 @@ Full-stack maintenance management platform for the 92nd Aircraft Maintenance Squ
 - 📱 PWA with offline IndexedDB support
 - 🌐 **[Live Demo](https://sleuthy-sloth.github.io/92-AMXS-Tracker)**
 
+### [OpenNarrator](https://github.com/sleuthy-sloth/opennarrator)
+Open-source audiobook creator. Drop in an ebook, get back a chaptered M4B audiobook using open-source TTS.
+
+- 🎧 Converts EPUB, TXT, DOCX to chaptered M4B audiobooks
+- 🗣️ 16 Kokoro TTS voices: American/British English, male/female
+- 🌐 Web UI at localhost:8080 with voice preview and speed control
+- ⚡ CLI for scripting, `--demo` flag to test in 60 seconds
+- 🍺 Homebrew install, pip, or Codespaces devcontainer
+- 🤖 GitHub Actions template repo for automated pipelines
+
 ### [NeuralPulse](https://github.com/sleuthy-sloth/NeuralPulse)
 Open-source brain training web app. Think Elevate or Lumosity, but free and playable in your browser.
 
@@ -31,7 +41,7 @@ Open-source brain training web app. Think Elevate or Lumosity, but free and play
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | TypeScript, JavaScript |
+| **Languages** | TypeScript, JavaScript, Python |
 | **Frontend** | React 19, Next.js 16, Vite 6, Tailwind CSS 4 |
 | **Backend** | Firebase (Auth, Firestore), Supabase (Postgres, Auth) |
 | **AI/ML** | OpenRouter, GenAI.mil, Zod validation, OCR |
