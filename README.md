@@ -58,4 +58,4 @@ Open-source brain training web app. Think Elevate or Lumosity, but free and play
 
 ---
 
-*All projects licensed under CC BY-NC 4.0*
+*All projects licensed under MIT*
